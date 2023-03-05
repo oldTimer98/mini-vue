@@ -1,0 +1,13 @@
+{
+  "name": "support-esm",
+  "version": "1.0.0",
+  "description": "探索 jest 是否支持 nodejs 的 esm 规范",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
