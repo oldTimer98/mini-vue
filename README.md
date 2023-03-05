@@ -1,6 +1,7 @@
 [CN](README.md) / [EN](README_EN.md)
 
 实现最简 vue3 模型，用于深入学习 vue3， 让你更轻松的理解 vue3 的核心逻辑
+B站学习视频地址:https://www.bilibili.com/video/BV1gM4y1o7WQ/?vd_source=c7b603706b51658fb345dd0bc16d4cf1
 
 ## Why
 
